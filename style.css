@@ -1,0 +1,7 @@
+text {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    row-gap: 30px;
+    color: red;
+}
